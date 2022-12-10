@@ -34,3 +34,29 @@
   date: '2020-03-06'
   link: https://doi.org/grgj6z
   _cache: bc370d02c119421181cc7c0a8357dd02036a08e95fc436c99bbfd00f4b342e7a
+- id: doi:10.1007/s11192-018-2706-x
+  title: Comparing research productivity of returnee-PhDs in science, engineering,
+    and the social sciences
+  authors:
+  - Varsha Singh
+  publisher: Scientometrics
+  date: '2018-03-12'
+  link: https://doi.org/gdvx35
+  _cache: 9d8e774e67c28fa8081d6f468711d85153f5772becd672e87a48f377f41d5b28
+- id: doi:10.3389/fpsyg.2016.00708
+  title: Sex-Differences, Handedness, and Lateralization in the Iowa Gambling Task
+  authors:
+  - Varsha Singh
+  publisher: Frontiers in Psychology
+  date: '2016-05-31'
+  link: https://doi.org/grgj7g
+  _cache: 4aa9c53244de749f06039a2585d1cb20f20b67685a4493ff2cf93ffead0c61c1
+- id: doi:10.3389/fpsyg.2013.00628
+  title: 'Dual conception of risk in the Iowa Gambling Task: effects of sleep deprivation
+    and test-retest gap'
+  authors:
+  - Varsha Singh
+  publisher: Frontiers in Psychology
+  date: '2013-01-01'
+  link: https://doi.org/f96x4b
+  _cache: bd29ebc296af4ca6e6ded615345b1d39de57f5aa1f3ad2e28e7c7e94a2147ac9
