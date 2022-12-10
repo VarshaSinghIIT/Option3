@@ -1,6 +1,6 @@
 ---
 name: Insha Shamshad
-image: images/Insha.jpeg
+image: images/insha.jpeg
 description: PhD Scholar (HSS)
 role: phd
 aliases:
