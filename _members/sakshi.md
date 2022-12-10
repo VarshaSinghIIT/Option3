@@ -1,6 +1,6 @@
 ---
 name: Sakshi Sharma
-image: images/sakshi.jpg
+image: images/ss.jpg
 description: PhD Scholar (SIRe Program)
 role: phd
 aliases:
