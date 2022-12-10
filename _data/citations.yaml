@@ -60,3 +60,23 @@
   date: '2013-01-01'
   link: https://doi.org/f96x4b
   _cache: bd29ebc296af4ca6e6ded615345b1d39de57f5aa1f3ad2e28e7c7e94a2147ac9
+- id: doi:10.3389/fnins.2012.00107
+  title: "Decision Making in the Reward and Punishment Variants of the Iowa Gambling\
+    \ Task: Evidence of \u201CForesight\u201D or \u201CFraming\u201D?"
+  authors:
+  - Varsha Singh
+  - Azizuddin Khan
+  publisher: Frontiers in Neuroscience
+  date: '2012-01-01'
+  link: https://doi.org/grgj8n
+  _cache: 819839f9f33de8024a954fe9abb51a2ec8be445b05456abd300c5739dc411c49
+- id: doi:10.1080/10790268.2022.2052503
+  title: 'Psychophysiological impact of spinal cord injury: Depression, coping and
+    heart rate variability'
+  authors:
+  - Varsha Singh
+  - Shambhovi Mitra
+  publisher: The Journal of Spinal Cord Medicine
+  date: '2022-03-30'
+  link: https://doi.org/grgj8r
+  _cache: 098a1101972c9f0936cbb55be67ed8854e3f64665cde7b1c9bd8f3b10f818b0f
