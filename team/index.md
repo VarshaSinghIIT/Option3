@@ -54,11 +54,11 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
+  image1="images/DST.png"
   link1=""
   tooltip1="Department of Science and Technology"
 
-  image2="images/photo.jpg"
+  image2="images/IIT.png"
   link2=""
   tooltip2="Indian Institute of Technology"
 
