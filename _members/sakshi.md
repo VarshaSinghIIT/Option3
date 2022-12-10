@@ -1,7 +1,7 @@
 ---
 name: Sakshi Sharma
 image: images/sakshi.jpg
-description: PhD Scholar
+description: PhD Scholar (SIRe Program)
 role: phd
 aliases:
   - A. Chovie
