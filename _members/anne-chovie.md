@@ -1,6 +1,6 @@
 ---
 name: Sakshi Sharma
-image: images/member.jpg
+image: images/sakshi.jpg
 description: PhD Scholar
 role: programmer
 aliases:
