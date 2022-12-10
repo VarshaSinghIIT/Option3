@@ -1,7 +1,7 @@
 ---
-name: Anne Chovie
+name: Sakshi Sharma
 image: images/member.jpg
-description: Bark Ops Engineer
+description: PhD Scholar
 role: programmer
 aliases:
   - A. Chovie
@@ -12,6 +12,6 @@ links:
   github: anne-chovie
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Sakshi is a good bitch.
+She studied at the University of Pune.
+She likes treats.
