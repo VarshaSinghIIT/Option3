@@ -2,7 +2,7 @@
 name: Sakshi Sharma
 image: images/sakshi.jpg
 description: PhD Scholar
-role: programmer
+role: phd
 aliases:
   - A. Chovie
   - A Chovie
