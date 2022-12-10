@@ -1,5 +1,5 @@
 ---
-name: Dr. Varsha Singh (Associate Professor, IITD)
+name: Dr. Varsha Singh 
 image: images/varsha.jpeg
 description: Principal Investigator
 role: pi
