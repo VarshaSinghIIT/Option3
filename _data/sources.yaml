@@ -31,3 +31,14 @@
     - type: source
       link: https://github.com/greenelab/scihub
       text: Analyses source
+      
+- id: doi:10.1016/j.arrct.2021.100174
+  # author/date/publisher/etc filled in automatically by Manubot
+
+
+- id: doi:10.3389/fpsyg.2020.00486
+
+# author/date/publisher/etc filled in automatically by Manubot
+
+- id: doi:10.3389/fpsyg.2020.00180
+# author/date/publisher/etc filled in automatically by Manubot
