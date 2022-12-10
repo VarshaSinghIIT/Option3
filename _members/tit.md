@@ -1,6 +1,6 @@
 ---
 name: Titli Saha
-image: images
+image: ""
 description: PhD Scholar (SIRe Program)
 role: phd
 aliases:
