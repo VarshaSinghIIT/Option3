@@ -1,6 +1,6 @@
 ---
 name: Dr. Varsha Singh
-image: images/member.jpg
+image: images/varsha.png
 description: Principal Investigator
 role: pi
 aliases:
