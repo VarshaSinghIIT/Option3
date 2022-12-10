@@ -17,12 +17,21 @@ nav:
   component="portrait"
   filters="role: pi"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
 %}
+
 {%
   include list.html
   data="members"
@@ -31,7 +40,6 @@ nav:
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
 
 
 {% include section.html %}
