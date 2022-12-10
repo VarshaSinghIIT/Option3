@@ -12,5 +12,7 @@ links:
   github: ""
 ---
 
- I have a Bachelor’s and Master’s degree in Life Sciences from Presidency University. I am currently working on documenting sex-differences in affect and decision making in healthy people and people with depression. I am interested in exploring the functional underpinnings of emotions and their dysregulation in people with mental health disorders. In spare time, I love travelling and playing chess.
+I have a Bachelor’s and Master’s degree in Life Sciences from Presidency University. My work examines sex-differences in affect and decision making in healthy people and people with affective disorders. Further, I am also exploring sex differences in frontal cortical activity using functional near-Infrared Spectroscopy. My research interests lie in documenting functional underpinnings of emotions and their dysregulation in people with mental health disorders. For fun, I love travelling and playing chess.
+
+
 
