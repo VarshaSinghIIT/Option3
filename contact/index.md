@@ -49,7 +49,7 @@ New Delhi - 110016
 {% capture col1 %}
 {%
   include figure.html
-  image="images/60.jpg"
+  image="images/60.jpeg"
   caption="60 Glorious years of IITD"
 %}
 {% endcapture %}
