@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-1. Suman Jain
+1. Dr. Suman Jain: All India Institute of Medical Science, New Delhi
 
 
 
