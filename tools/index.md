@@ -2,7 +2,7 @@
 title: Conferences
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Presentations and Posters
 ---
 
 # <i class="fas fa-tools"></i> Conferences
