@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Dr. Varsha Singh's office is on the 3rd floor in Room 402F, Block II, Indian Institute of Technology, Delhi. And her work space is in Block IV, IITD. 
+
 {%
   include link.html
   type="email"
@@ -41,7 +42,7 @@ Dr. Varsha Singh's office is on the 3rd floor in Room 402F, Block II, Indian Ins
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-402F, Block II
+402F, Block II,
 Indian Institute of Technology, Delhi
 New Delhi - 110016
 
