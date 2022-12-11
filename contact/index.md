@@ -49,8 +49,8 @@ New Delhi - 110016
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/60.jpg"
+  caption="60 Glorious years of IITD"
 %}
 {% endcapture %}
 {% capture col2 %}
