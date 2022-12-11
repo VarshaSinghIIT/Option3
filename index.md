@@ -40,7 +40,7 @@ engineering and sciences.
 
 {%
   include feature.html
-  image="images/home page_research_photo.jpg"
+  image="images/hp.jpg"
   link="research"
   title="Our Research"
   text=text
