@@ -56,8 +56,8 @@ New Delhi - 110016
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/dogra.jpg"
+  caption="Dogra Hall, IITD"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
