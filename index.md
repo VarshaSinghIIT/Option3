@@ -2,28 +2,15 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Varsha Singh
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The research group aims to understand the role of affect in
+risk, and reward representation in cognitive processes mainly
+decision-making. We examine cognitive, affect and decision processes under
+different conditions (ideal/ constraint) in healthy and clinical
+population. 
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
+
 
 {% include section.html full=true %}
 
@@ -34,8 +21,16 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The group primarily uses behavioral experiments, combining
+these with imaging (fNIRS, structural MRI) to understand cognitive
+deficits in clinical conditions (neurological and psychiatric disorder).
+To control for environment influences or to study of cognitive deficits
+specific to a clinical disorder, the group collaborates with labs to use
+animal models (rodents). A multidisciplinary approach is needed to
+understand the hard problems such as the mind-body, or
+brain-behavior-cognition, therefore group members are selected from
+clinical psychology and biology, encouraged to collaborate with
+engineering and sciences.
 
 {%
   include link.html
@@ -55,31 +50,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   text=text
 %}
 
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A multidisciplinary approach is needed to
+understand the hard problems such as the mind-body, or
+brain-behavior-cognition, therefore group members are selected from
+clinical psychology and biology, encouraged to collaborate with
+engineering and sciences.
 
 {%
   include link.html
@@ -99,5 +76,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
