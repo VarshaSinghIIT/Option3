@@ -2,7 +2,7 @@
 title: Collaborations
 nav:
   order: 4
-  tooltip: ""
+  
 ---
 
 # <i class="fas fa-feather-alt"></i>Collaborations
