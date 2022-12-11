@@ -4,7 +4,7 @@
     "icons": [
         {
             "src": "favicons/iitd.png",
-            "sizes": "512x512",
+            "sizes": "",
             "type": "image/png"
         }
     ],
