@@ -18,7 +18,6 @@ Dr. Varsha Singh's office is on the 3rd floor in Room 402F, Block II, Indian Ins
   link="vsingh@iitd.ac.in"
   style="button"
 %}
-
 {%
   include link.html
   type=""
