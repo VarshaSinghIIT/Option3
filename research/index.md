@@ -25,10 +25,6 @@ engineering and sciences.
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
 1. Singh, V, Grewal, K., Vibha, D., Singh, R., Ramanujam, B., Nehra, A., Chandra, S., Gaikwad, S., Indupriya, B., Tripathi, M. (2022). Cortico-limbic disruption, material-specificity, and deficits in cognitive-affective Theory of mind. Brain Communications. Accepted.
 2. Singh, V., Kumar, S., Jha, A. & Verma, R. (2022). Exploring Sex-specific Affective Processing and Depression-Anxiety Comorbidity in a Gender-Inequitable Country. Minerva Psychiatry. In press. 
 3. Gupta, A., Garg, R., & Singh, V. (2022). Using traditional typologies to understand posture movement and cognitive performance-A cross sectional study. International Journal of Yoga, 15(2), 106.
