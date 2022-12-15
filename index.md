@@ -10,7 +10,7 @@ Dr. Varsha Singh is an Associate Professor in Psychology, Humanities and Social 
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/iitdd.jpg" %}
+{% include banner.html image="images/new.jpeg" %}
 
 {% include section.html %}
 
