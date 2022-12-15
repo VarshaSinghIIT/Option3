@@ -49,7 +49,7 @@ engineering and sciences.
 18. Singh, V. (2013). A potential role of reward and punishment in the facilitation of the emotion-cognition dichotomy in the Iowa Gambling Task. Frontiers in Psychology. 4:944. doi: 10.3389/fpsyg.2013.00944.
 19. Singh, V. (2013). Dual conception of risk in the Iowa Gambling Task: Effects of sleep deprivation and time delay.  Frontiers in Decision Neuroscience. 4:628. doi:10.3389/fpsyg.2013.00628.
 20. Singh, V. & Khan, A. (2012). Decision making in the reward and punishment variants of the Iowa Gambling Task: Evidence of “Foresight” or “Framing”? Frontiers in Decision Neuroscience. 6:107. doi: 10.3389/fnins.2012.00107.
-21.Kalliath, P., Kalliath, T., & Singh, V. (2011). When work intersects family: A qualitative exploration of the experiences of dual earner couples in India. South Asian Journal of Management, 18(1):37-59.
+21. Kalliath, P., Kalliath, T., & Singh, V. (2011). When work intersects family: A qualitative exploration of the experiences of dual earner couples in India. South Asian Journal of Management, 18(1):37-59.
 22. Singh, V., Kalliath, T., & Kalliath, P. (2010). Dual-income marital dyads and discrepant economic and personal information: An exploratory investigation. Psychological Studies, 55(3): 263-269.
 23. Singh, V. & Khan, A. (2009). Heterogeneity in choices on Iowa Gambling Task: A preference for high infrequent-higher magnitude punishment. Mind & Society: Cognitive Studies in Economics and Social Science, 8(1):43-57.
 24. Singh, V. & Khan, A. (2008). Affect, judgment and endowment-contrast theory, Journal of Indian Health Psychology, 3(1):19-26.
