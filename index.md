@@ -61,7 +61,7 @@ Our team comes from varied disciplines from Psychology to Core Sciences.
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
