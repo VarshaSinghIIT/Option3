@@ -1,6 +1,6 @@
 ---
 name: Binita Vedak
-image: ""
+image: images/binita.jpeg
 description: Research Assistant
 role: programmer
 aliases:
