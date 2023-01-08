@@ -14,15 +14,15 @@ The group has successful national and international collaborations across many d
 1.	Prof. Manjari Tripathi, Department of Neurology, AIIMS, New Delhi (UQ-IITD Program)                         
 2.	Prof. David Reutens, Centre for Advanced Imaging, University of Queensland, Australia (UQ-IITD Program)
 3.	Prof. Suman Jain, Neurophysiology and Nanomedicine Lab, Department of Physiology, AIIMS, New Delhi
-Co-supervisor on PhD of Sakshi Sharma (SIRe Program), Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
-4.	Dr. Sushil Jha, School of Life Sciences, JNU, New Delhi
-Co-supervisor on PhD of Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
+    Co-supervisor on PhD of Sakshi Sharma (SIRe Program), Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
+5.	Dr. Sushil Jha, School of Life Sciences, JNU, New Delhi
+    Co-supervisor on PhD of Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
 5.	Dr. Rohit Verma, Department of Psychiatry, AIIMS, New Delhi
-Co-supervisor on PhD of Ankit Jha (UQ-IITD Program)
+    Co-supervisor on PhD of Ankit Jha (UQ-IITD Program)
 6.	Dr. Alan Pegna, School of Psychology, University of Queensland, Australia
-Co-supervisor on PhD of Ankit Jha (UQ-IITD Program)
+    Co-supervisor on PhD of Ankit Jha (UQ-IITD Program)
 7. Prof. Rahul Garg, Department of Computer Science and Engineering, IIT Delhi
-Co-supervisor on PhD of Ankit Gupta (NRCVEE Program)
+    Co-supervisor on PhD of Ankit Gupta (NRCVEE Program)
 8. Prof. Varun Ramamohan, EE, IIT Delhi
 9. Dr. Srikant, Department of Computer Science and Engineering, IIT Delhi
 10. Dr. Smruti Sarangi, Department of Computer Science and Engineering, IIT Delhi
