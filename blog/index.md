@@ -11,11 +11,11 @@ nav:
 
 The group has successful national and international collaborations across many domains of Cognitive, Medical and Core Sciences, Engineering and Management. 
 
-* Prof. Manjari Tripathi, Department of Neurology, AIIMS, New Delhi (UQ-IITD Program)                         
-* Prof. David Reutens, Centre for Advanced Imaging, University of Queensland, Australia (UQ-IITD Program)
-* Prof. Suman Jain, Neurophysiology and Nanomedicine Lab, Department of Physiology, AIIMS, New Delhi
-  Co-supervisor on PhD of Sakshi Sharma (SIRe Program), Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
-5.	Dr. Sushil Jha, School of Life Sciences, JNU, New Delhi
+1. Prof. Manjari Tripathi, Department of Neurology, AIIMS, New Delhi (UQ-IITD Program)                         
+2. Prof. David Reutens, Centre for Advanced Imaging, University of Queensland, Australia (UQ-IITD Program)
+3. Prof. Suman Jain, Neurophysiology and Nanomedicine Lab, Department of Physiology, AIIMS, New Delhi
+   Co-supervisor on PhD of Sakshi Sharma (SIRe Program), Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
+4.	Dr. Sushil Jha, School of Life Sciences, JNU, New Delhi
     Co-supervisor on PhD of Jyotsna Pandey (SIRe Program) and Titli Saha (SIRe Program)
 5.	Dr. Rohit Verma, Department of Psychiatry, AIIMS, New Delhi
     Co-supervisor on PhD of Ankit Jha (UQ-IITD Program)
