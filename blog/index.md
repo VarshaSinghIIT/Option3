@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-The group has successful national and international collaborations across many domains of Psychological and Core Sciences. 
+The group has successful national and international collaborations across many domains of Cognitive, Medical and Core Sciences, Engineering and Management. 
 
 1.	Prof. Manjari Tripathi, Department of Neurology, AIIMS, New Delhi (UQ-IITD Program)                         
 2.	Prof. David Reutens, Centre for Advanced Imaging, University of Queensland, Australia (UQ-IITD Program)
