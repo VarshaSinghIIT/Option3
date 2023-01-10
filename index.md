@@ -4,7 +4,7 @@ title: Home
 
 
 
-Dr. Varsha Singh is an Associate Professor in Psychology, Humanities and Social Sciences, Indian Institute of Technology, Delhi.  She did her bachelors and masters in psychology from University of Pune, which had an emphasis on experimental psychology. She followed it with a PhD from IIT Bombay, with her thesis testing an influential hypothesis of emotion-cognition and rational decision-making. Her research interests continue to remain interdisciplinary with collaborations from engineering departments in IIT, Delhi to clinical projects at AIIMS, New Delhi. 
+I, Dr. Varsha Singh am an Associate Professor in Psychology, Humanities and Social Sciences, Indian Institute of Technology, Delhi. I did my bachelors and masters in psychology from University of Pune, which had an emphasis on experimental psychology. I followed it with a PhD from IIT Bombay, with my thesis testing an influential hypothesis of emotion-cognition and rational decision-making. My research interests continue to remain interdisciplinary with collaborations from engineering departments in IIT, Delhi to clinical projects at AIIMS, New Delhi. 
 
 
 
